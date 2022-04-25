@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 import './index.css';
 
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'Martin_codes86';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 ReactDOM.render(
@@ -28,7 +28,7 @@ ReactDOM.render(
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`Made with @${TWITTER_HANDLE}`}</a>
+          >{`Made by @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
 

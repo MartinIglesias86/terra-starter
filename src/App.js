@@ -6,15 +6,15 @@ function App() {
     <main className="App">
       <header>
         <div className="header-titles">
-          <h1>⚔ Goblin War ⚔</h1>
-          <p>Only you can save us from Goblin town</p>
+          <h1>⚔ Terra dApp ⚔</h1>
+          <p>Come join the revolution!</p>
         </div>
 
       </header>
 
       <div>
         <img
-          src="https://media.giphy.com/media/B19AYwNXoXtcs/giphy.gif"
+          src="https://media4.giphy.com/media/4NiFoaN9ufCOKbbn2i/giphy.gif"
           alt="Goblin gif"
         />
       </div>
